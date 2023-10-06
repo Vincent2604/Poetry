@@ -12,7 +12,6 @@ body {
 	}
 	.content{
 		margin: 0 auto;
-		
 		padding: 0px 20% 0px 20%;
 	}
 	h1{
@@ -28,9 +27,6 @@ body {
 	}
 	.f{
 		float: left;
-	}
-	.t{
-
 	}
 
 	li {
