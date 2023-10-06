@@ -1,6 +1,7 @@
 body {
 		font-family: Arial, Verdana, sans-serif;
-		display: block;
+		display: flex;
+		flex-direction: column;
 		color: black;
 		
 	}
@@ -8,8 +9,8 @@ body {
 		background-image: url("../image/content.jpg");
 		max-width: 100%;
 		background-position: center;
-		padding: 350px;
-		height: 1vh;
+		padding: 250px 20% 250px 20%;
+		height: 150px;
 	}
 	.content{
 		margin: 0 auto;
@@ -17,10 +18,10 @@ body {
 		padding: 0px 10% 0px 10%;
 	}
 	h1{
-		margin:0px ;
+		margin:0 auto; ;
 		font-size: 150px;
 		font-family: Brush Script MT, Brush Script Std, cursive;
-		color: dimgray;
+		color: whitesmoke;
 		-webkit-text-stroke-color: black;
     	-webkit-text-stroke-width: .1px;
     	text-align: center;
@@ -145,5 +146,6 @@ body {
 		width: 310px;
 		text-align: right;
 	}
+
 
 	
