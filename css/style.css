@@ -1,7 +1,5 @@
 body {
 		font-family: Arial, Verdana, sans-serif;
-		display: flex;
-		flex-direction: column;
 		color: black;
 		
 	}
@@ -15,7 +13,7 @@ body {
 	.content{
 		margin: 0 auto;
 		
-		padding: 0px 10% 0px 10%;
+		padding: 0px 20% 0px 20%;
 	}
 	h1{
 		margin:0 auto; ;
